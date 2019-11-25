@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Test</name>
+    </assembly>
+    <members>
+        <member name="M:Test.Controllers.ValuesController.Get">
+            <summary>
+            get请求
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Test.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            get带参数请求
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Test.Controllers.ValuesController.Post(System.String)">
+            <summary>
+            post请求
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:Test.Controllers.ValuesController.Put(System.Int32,System.String)">
+            <summary>
+            put请求
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Test.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>
+            delete请求
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

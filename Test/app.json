@@ -1,0 +1,15 @@
+﻿{
+  "AppName": "A_Config",
+  "Student": {
+    "Name": "小明",
+    "Address": {
+      "Country": "中国",
+      "City": "山东"
+    },
+    "Subjects": [
+      { "Name": "语文" },
+      { "Name": "数学" },
+      { "Name": "英语" }
+    ]
+  }
+}
